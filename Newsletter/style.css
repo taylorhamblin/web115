@@ -1,0 +1,84 @@
+body {
+    background: url(Images/nice_snow_@2X.png);
+    font-family: 'Arsenal', sans-serif;
+}
+
+p{
+    font-weight: 600;
+}
+
+h1 {
+    font-size: 50px;
+    font-family: bold;
+    color: #012233;
+    text-shadow: 4px 4px 18px;
+    margin: 10px;
+}
+
+footer {
+    color: #035D8C;
+    text-shadow: .5px .5px .3px;
+}
+
+h2{
+    font-size: 28px;
+    text-shadow: .5px .5px .3px;
+    margin: 10px;
+    color: #02324C;
+}
+
+h3{
+    font-size: 24px;
+    text-shadow: .5px .5px .3px;
+    margin: 10px;
+    color: #02324C;
+}
+
+img {
+    padding: 10px;
+    border-radius: 15px;
+}
+
+.center {
+    text-align: center;
+}
+
+.left {
+    float: left;
+}
+
+.right {
+    float: right;
+}
+
+.p20 {
+    padding: 20px;
+}
+
+.p10{
+    padding: 1%;
+}
+
+.w50 {
+    width: 50%;
+}
+
+.w23 {
+    width: 23%;
+}
+
+.clear {
+ clear:both;   
+}
+
+.w81 {
+    width: 81%;
+}
+
+.p0 {
+    padding-top: none;
+}
+
+.thinoutline {
+    border:1px solid #ccc; 
+}
