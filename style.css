@@ -1,0 +1,44 @@
+body {
+    background: url(Images/congruent_outline.png)
+}
+
+.center {
+    text-align: center;
+}
+
+.font {
+    font-family: 'Architects Daughter', cursive;
+}
+
+.f50 {
+    font-size: 50px;
+}
+
+.white {
+    color: white;
+}
+
+.f20 {
+    font-size: 20px;
+}
+
+.f35 {
+    font-size: 35px;
+}
+
+.a {
+    color:#85B1BF;
+}
+
+a:visited {
+    color:#B1ECFF;
+}
+
+a:hover {
+    color: #59767F;
+    font-style: italic;
+}
+
+.p20 {
+    padding: 20px;
+}
