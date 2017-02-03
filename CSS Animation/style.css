@@ -1,0 +1,103 @@
+.center {
+    text-align: center;
+}
+
+.background {
+    background: url(Images/low_contrast_linen_@2X.png)
+}
+
+.white {
+    color: white;
+}
+
+#heart {
+    width: 300px;
+    height: 300px;
+    position: relative;
+    left: 0px;
+    -webkit-animation-name: heart-move;
+    -webkit-animation-duration: 8s;
+    animation-name: heart-move;
+    animation-duration: 8s;
+}
+
+@keyframes heart-move {
+    0% {
+        left: 0px;
+        top: 0px;
+    }
+    25% {
+        left: 500px;
+        top: 0px;
+    }
+    50% {
+        left: 500px;
+        top: 300px;
+    }
+    75% {
+        left: 300px;
+        top: 300px;
+    }
+    100% {
+        left: 0px;
+        top: 0px;
+    }
+}
+
+#paw {
+    width: 200px;
+    height: 200px;
+    position: relative;
+    -webkit-animation-name: paw-move;
+    -webkit-animation-duration: 6s;
+    -webkit-animation-delay: 2s;
+    animation-name: paw-move;
+    animation-duration: 6s;
+    animation-delay: 2s;
+}
+
+@keyframes paw-move {
+    0% {
+        left: 0px;
+        top: 0px;
+    }
+    25% {
+        left: 300px;
+        top: 0px;
+    }
+    50% {
+        left: 300px;
+        top: 300px;
+    }
+    100% {
+        left: 0px;
+        top: 0px;
+    }
+}
+
+#clover {
+    width: 200px;
+    height: 200px;
+    position: relative;
+    -webkit-animation-name: clover-move;
+    -webkit-animation-duration: 2s;
+    -webkit-animation-iteration-count: 3;
+    animation-name: clover-move;
+    animation-duration: 2s;
+    animation-iteration-count: 3;
+}
+
+@keyframes clover-move {
+    0% {
+        left: 0px;
+        top: 0px;
+    }
+    50% {
+        left: 0px;
+        top: 200px;
+    }
+    100% {
+        left: 0px;
+        top: 0px;
+    }
+}
