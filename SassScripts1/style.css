@@ -1,0 +1,35 @@
+@import url("https://fonts.googleapis.com/css?family=Raleway");
+/* line 12, /Users/taylorhammie/Desktop/PUBLIC/WEB 115/SassScript 1/style.scss */
+h1 {
+  color: #5FCEFF; }
+
+/* line 16, /Users/taylorhammie/Desktop/PUBLIC/WEB 115/SassScript 1/style.scss */
+p {
+  color: #63577F; }
+
+/* line 20, /Users/taylorhammie/Desktop/PUBLIC/WEB 115/SassScript 1/style.scss */
+h2 {
+  color: #FF61A2; }
+
+/* line 24, /Users/taylorhammie/Desktop/PUBLIC/WEB 115/SassScript 1/style.scss */
+h3 {
+  color: #FFAE34; }
+
+/* line 28, /Users/taylorhammie/Desktop/PUBLIC/WEB 115/SassScript 1/style.scss */
+body {
+  background-color: #DFFCFF;
+  font-family: "Raleway", sans-serif; }
+
+/* line 33, /Users/taylorhammie/Desktop/PUBLIC/WEB 115/SassScript 1/style.scss */
+.List {
+  margin: 0;
+  padding: 0; }
+  /* line 37, /Users/taylorhammie/Desktop/PUBLIC/WEB 115/SassScript 1/style.scss */
+  .List .head {
+    color: #63577F;
+    border-bottom: dotted; }
+  /* line 42, /Users/taylorhammie/Desktop/PUBLIC/WEB 115/SassScript 1/style.scss */
+  .List p {
+    font-style: italic; }
+
+/*# sourceMappingURL=style.css.map */

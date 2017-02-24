@@ -1,0 +1,37 @@
+@import "variables.scss";
+
+
+h1 {
+    color: $lightblue;
+}
+
+p {
+    color: $darkpurple;
+}
+
+h2 {
+    color: $pink;
+}
+
+h3 {
+    color: $orange;
+}
+
+body {
+    background-color: $background;
+    font-family: $font-main;
+}
+
+.List {
+    margin: 0;
+    padding: 0;
+    
+    .head {
+        color: $darkpurple;
+        border-bottom: dotted;
+    }
+    
+    p {
+        font-style: italic;
+    }
+}
