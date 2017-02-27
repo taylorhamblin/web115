@@ -1,0 +1,179 @@
+@import url("https://fonts.googleapis.com/css?family=Changa+One|Open+Sans");
+/* line 3, /Users/taylorhammie/Desktop/PUBLIC/WEB 115/sassproject/style.scss */
+body {
+  color: #514A45;
+  font-family: 'Open Sans', sans-serif;
+  background: url(Images/background.png); }
+
+/* line 9, /Users/taylorhammie/Desktop/PUBLIC/WEB 115/sassproject/style.scss */
+h1 {
+  color: #AB8FBF;
+  text-shadow: 2px 2px 10px #9C9C9B;
+  font-size: 45px; }
+
+/* line 15, /Users/taylorhammie/Desktop/PUBLIC/WEB 115/sassproject/style.scss */
+h2 {
+  font-size: 35px;
+  color: #AB8FBF;
+  text-shadow: 1px 1px 5px #9C9C9B; }
+
+/* line 21, /Users/taylorhammie/Desktop/PUBLIC/WEB 115/sassproject/style.scss */
+.monfri, .sat {
+  padding: 10px;
+  border-radius: 20px; }
+  /* line 24, /Users/taylorhammie/Desktop/PUBLIC/WEB 115/sassproject/style.scss */
+  .monfri:hover, .sat:hover {
+    background: #C9D2CB; }
+
+/* line 31, /Users/taylorhammie/Desktop/PUBLIC/WEB 115/sassproject/style.scss */
+#homeright p {
+  font-size: 21px; }
+
+/* line 36, /Users/taylorhammie/Desktop/PUBLIC/WEB 115/sassproject/style.scss */
+#homeleft {
+  padding: 25px;
+  padding-left: 100px; }
+
+/* line 44, /Users/taylorhammie/Desktop/PUBLIC/WEB 115/sassproject/style.scss */
+#hours p {
+  font-size: 20px;
+  font-weight: 900; }
+
+/* line 51, /Users/taylorhammie/Desktop/PUBLIC/WEB 115/sassproject/style.scss */
+h3 {
+  color: #BDBEDE;
+  text-shadow: 1px 1px 1px #525251; }
+
+/* line 57, /Users/taylorhammie/Desktop/PUBLIC/WEB 115/sassproject/style.scss */
+footer {
+  color: #D1E8D5;
+  text-shadow: 1px 1px 1px #525251; }
+
+/* line 62, /Users/taylorhammie/Desktop/PUBLIC/WEB 115/sassproject/style.scss */
+nav li {
+  list-style-type: none;
+  display: inline-block;
+  margin-left: 5%;
+  margin-right: 5%;
+  margin-bottom: 40px;
+  margin-top: 80px;
+  font-family: 'Changa One', cursive;
+  font-size: 25px;
+  text-shadow: 1px 1px 5px #9C9C9B; }
+
+/* line 74, /Users/taylorhammie/Desktop/PUBLIC/WEB 115/sassproject/style.scss */
+nav ul {
+  margin: auto;
+  padding-bottom: 175px;
+  height: 10px; }
+
+/* line 80, /Users/taylorhammie/Desktop/PUBLIC/WEB 115/sassproject/style.scss */
+a {
+  color: #AB8FBF;
+  text-decoration: none; }
+
+/* line 85, /Users/taylorhammie/Desktop/PUBLIC/WEB 115/sassproject/style.scss */
+a:visited {
+  color: #AB8FBF; }
+
+/* line 89, /Users/taylorhammie/Desktop/PUBLIC/WEB 115/sassproject/style.scss */
+a:hover {
+  color: white; }
+
+/* line 94, /Users/taylorhammie/Desktop/PUBLIC/WEB 115/sassproject/style.scss */
+.clear {
+  clear: both; }
+
+/* line 98, /Users/taylorhammie/Desktop/PUBLIC/WEB 115/sassproject/style.scss */
+.center {
+  text-align: center; }
+
+/* line 103, /Users/taylorhammie/Desktop/PUBLIC/WEB 115/sassproject/style.scss */
+.floatr {
+  float: right; }
+
+/* line 107, /Users/taylorhammie/Desktop/PUBLIC/WEB 115/sassproject/style.scss */
+.floatl {
+  float: left; }
+
+/* line 111, /Users/taylorhammie/Desktop/PUBLIC/WEB 115/sassproject/style.scss */
+.w49 {
+  width: 49%; }
+
+/* line 115, /Users/taylorhammie/Desktop/PUBLIC/WEB 115/sassproject/style.scss */
+.w48 {
+  width: 48%; }
+
+/* line 119, /Users/taylorhammie/Desktop/PUBLIC/WEB 115/sassproject/style.scss */
+.w45 {
+  width: 45%; }
+
+/* line 123, /Users/taylorhammie/Desktop/PUBLIC/WEB 115/sassproject/style.scss */
+.p4 {
+  padding: 4px; }
+
+/* line 127, /Users/taylorhammie/Desktop/PUBLIC/WEB 115/sassproject/style.scss */
+.p10 {
+  padding: 10px; }
+
+/* line 131, /Users/taylorhammie/Desktop/PUBLIC/WEB 115/sassproject/style.scss */
+.w30 {
+  width: 30%; }
+
+/* line 135, /Users/taylorhammie/Desktop/PUBLIC/WEB 115/sassproject/style.scss */
+.logo {
+  width: 175px; }
+
+/* line 139, /Users/taylorhammie/Desktop/PUBLIC/WEB 115/sassproject/style.scss */
+.pr20 {
+  padding-right: 40px; }
+
+/* line 143, /Users/taylorhammie/Desktop/PUBLIC/WEB 115/sassproject/style.scss */
+.w100 {
+  width: 100%; }
+
+/* line 147, /Users/taylorhammie/Desktop/PUBLIC/WEB 115/sassproject/style.scss */
+.max {
+  max-width: 100%; }
+
+/* line 151, /Users/taylorhammie/Desktop/PUBLIC/WEB 115/sassproject/style.scss */
+.bradius {
+  border-radius: 15px; }
+
+/* line 155, /Users/taylorhammie/Desktop/PUBLIC/WEB 115/sassproject/style.scss */
+.pl10 {
+  padding-left: 10px; }
+
+/* line 159, /Users/taylorhammie/Desktop/PUBLIC/WEB 115/sassproject/style.scss */
+.p40 {
+  padding: 40px; }
+
+/* line 163, /Users/taylorhammie/Desktop/PUBLIC/WEB 115/sassproject/style.scss */
+.w35 {
+  width: 35%; }
+
+/* line 167, /Users/taylorhammie/Desktop/PUBLIC/WEB 115/sassproject/style.scss */
+.w55 {
+  width: 55%; }
+
+/* line 171, /Users/taylorhammie/Desktop/PUBLIC/WEB 115/sassproject/style.scss */
+.w40 {
+  width: 40%; }
+
+/* line 175, /Users/taylorhammie/Desktop/PUBLIC/WEB 115/sassproject/style.scss */
+.p30 {
+  padding: 30px; }
+
+/* line 179, /Users/taylorhammie/Desktop/PUBLIC/WEB 115/sassproject/style.scss */
+.w60 {
+  width: 60%; }
+
+/* line 183, /Users/taylorhammie/Desktop/PUBLIC/WEB 115/sassproject/style.scss */
+.p20 {
+  padding: 20px; }
+
+/* line 187, /Users/taylorhammie/Desktop/PUBLIC/WEB 115/sassproject/style.scss */
+.pt10 {
+  padding-top: 20px; }
+
+/*# sourceMappingURL=style.css.map */

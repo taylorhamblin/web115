@@ -1,0 +1,189 @@
+@import "variables.scss";
+
+body {
+    color: $offblack;
+    font-family: 'Open Sans', sans-serif;
+    background: url(Images/background.png)
+}
+
+h1 {
+    color: $violet;
+    text-shadow: 2px 2px 10px #9C9C9B;
+    font-size: 45px;
+}
+
+h2 {
+    font-size: 35px;
+    color: $violet;
+    text-shadow: 1px 1px 5px #9C9C9B;
+}
+
+.monfri, .sat {
+    padding: 10px;
+    border-radius: 20px;
+    &:hover {
+        background: $greygreen
+    }
+}
+
+#homeright {
+    
+    p {
+        font-size: 21px;
+    }
+}
+
+#homeleft {
+    padding: 25px;
+    padding-left: 100px;
+}
+
+
+#hours {
+    
+    p{
+        font-size: 20px;
+        font-weight: 900;
+    }
+}
+
+
+h3 {
+    color: $lightpurple;
+    text-shadow: 1px 1px 1px #525251;
+    
+}
+
+footer {
+    color: $mint;
+    text-shadow: 1px 1px 1px #525251;
+}
+
+nav li {
+    list-style-type: none;
+    display: inline-block;
+    margin-left: 5%;
+    margin-right: 5%;
+    margin-bottom: 40px;
+    margin-top: 80px;
+    font-family: 'Changa One', cursive;
+    font-size: 25px;
+    text-shadow: 1px 1px 5px #9C9C9B;
+}
+    
+nav ul {
+    margin: auto;
+    padding-bottom: 175px;
+    height: 10px;
+}
+
+a {
+    color: $violet;
+    text-decoration: none;
+}
+
+a:visited {
+    color: $violet
+}
+
+a:hover {
+    color: white;
+}
+
+
+.clear {
+    clear: both;
+}
+
+.center {
+    text-align: center;
+}
+
+
+.floatr {
+    float: right;
+}
+
+.floatl {
+    float: left;
+}
+
+.w49 {
+    width: 49%;
+}
+
+.w48 {
+    width: 48%;
+}
+
+.w45 {
+    width: 45%;
+}
+
+.p4 {
+    padding: 4px;
+}
+
+.p10 {
+    padding: 10px;
+}
+
+.w30 {
+    width: 30%;
+}
+
+.logo {
+    width: 175px;
+}
+
+.pr20 {
+    padding-right: 40px;
+}
+
+.w100 {
+    width: 100%;
+}
+
+.max {
+    max-width:100%;
+}
+
+.bradius {
+    border-radius: 15px;
+}
+
+.pl10 {
+    padding-left: 10px;
+}
+
+.p40 {
+    padding: 40px;;
+}
+
+.w35 {
+    width: 35%;
+}
+
+.w55 {
+    width: 55%;
+}
+
+.w40 {
+    width: 40%;
+}
+
+.p30 {
+    padding: 30px;
+}
+
+.w60 {
+    width: 60%;
+}
+
+.p20 {
+    padding: 20px;
+}
+
+.pt10 {
+    padding-top: 20px;
+}
