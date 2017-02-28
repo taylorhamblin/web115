@@ -1,0 +1,59 @@
+body {
+    background: url(Images/zwartevilt.png);
+    color: white;
+    text-align: center;
+    font-family: 'Open Sans', sans-serif;
+}
+
+.container {
+    display: flex;
+    max-width: 500px;
+    background-color: #E6F6DB;
+    border-radius: 10px;
+    margin: 1em auto;
+}
+
+.box {
+    background-color: lightblue;
+    width: 100px;
+    height: 100px;
+    margin: 5px;
+    border: 1px solid #B1ADA8;
+}
+
+#rows {
+    display: flex;
+    max-width: 500px;
+    height: auto;
+    flex-flow: row wrap;
+}
+
+#rowreverse {
+    display: flex;
+    max-width: 500px;
+    height:auto;
+    flex-flow: row-reverse wrap;
+}
+
+#column {
+    display: flex;
+    max-height: 400px;
+    max-width: 400px;
+    flex-flow: column wrap;
+}
+
+#columnreverse {
+    display: flex;
+    max-height: 400px;
+    max-width: 400px;
+    flex-flow: column-reverse wrap;
+}
+
+img {
+    max-height: 100px;
+    max-width: 100px;
+}
+
+h2 {
+    text-align: center;
+}
