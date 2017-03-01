@@ -1,0 +1,39 @@
+.left img,
+.right img {
+    margin: 5px auto;
+}
+
+.left {
+    width: 200px;
+    float: left;
+    min-height: 600px;
+    text-align: center;
+}
+
+.right {
+    padding-top: 300px;
+    width: 700px;
+    text-align: center;
+    min-height: 600px;
+    float: right;
+}
+
+#large {
+    width: 65%;
+    height: auto;
+}
+
+body {
+    text-align: center;
+    font-family: 'Montserrat', sans-serif;
+    background: url(Images/background.png);
+    color: #5B4F6E;
+    padding: 0px;
+    margin: 0px;
+    line-height: 2;
+    
+}
+
+.clear {
+    clear: both;
+}
