@@ -1,0 +1,38 @@
+body {
+    background: url(Images/crossword.png);
+}
+
+h1 {
+    text-align: center;
+    color: #3B8686;
+}
+
+.container {
+    border-bottom: dotted #969696;
+    max-width: 900px;
+}
+
+.pages {
+    font-size: 23px;
+    text-align: center;
+    padding-top: 20px;
+}
+
+a {
+    color: #79BD9A;
+}
+
+a:hover {
+    color: #A8DBA8;
+    text-decoration: none;
+}
+
+.row {
+    padding-top: 20px;
+    padding-left: 8px;
+    color: #79BD9A;
+}
+
+.bor {
+    border: 1px solid black;
+}
