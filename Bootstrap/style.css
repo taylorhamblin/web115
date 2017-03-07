@@ -3,7 +3,6 @@ body {
 }
 
 h1 {
-    text-align: center;
     color: #3B8686;
 }
 
@@ -13,7 +12,7 @@ h1 {
 }
 
 .pages {
-    font-size: 23px;
+    font-size: 25px;
     text-align: center;
     padding-top: 20px;
 }
@@ -30,9 +29,39 @@ a:hover {
 .row {
     padding-top: 20px;
     padding-left: 8px;
-    color: #79BD9A;
+    color: #0B486B;
 }
 
 .bor {
     border: 1px solid black;
+}
+
+.center {
+    text-align: center;
+}
+
+.aleft {
+    text-align: left;
+}
+
+.w35 {
+    width: 50%;
+}
+
+.p75 {
+    padding: 75px;
+}
+
+.tables {
+    padding: 15px;
+    width: 75%;
+}
+
+.p20 {
+    padding: 20px;
+}
+
+.plt15 {
+    padding-left: 15px;
+    padding-top: 5px;
 }
