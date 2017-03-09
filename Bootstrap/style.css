@@ -65,3 +65,7 @@ a:hover {
     padding-left: 15px;
     padding-top: 5px;
 }
+
+.size {
+    font-size: 2em;
+}
