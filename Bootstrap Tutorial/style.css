@@ -1,0 +1,100 @@
+body {
+    background: url(Images/waves.png);
+    font-family: 'Montserrat', sans-serif;
+}
+
+.center {
+    text-align: center;
+}
+
+.left {
+    text-align: left;
+}
+
+.darkbrown {
+    color: #674941;
+}
+
+.w100 {
+    width: 100px;
+}
+
+.floatl {
+    float: left;
+}
+
+.floatr {
+    float: right;
+}
+
+.margright20 {
+    margin-right: 20px;
+}
+
+.max {
+    max-width: 100%;
+}
+
+.w100p {
+    width: 100%;
+}
+
+.clear {
+    clear: both;
+}
+
+footer {
+    font-size: 10px;
+    font-weight: bold;
+    color: #8E5B3E;
+}
+
+.pagination li a {
+    color: #674941;
+    padding: 10px 16px;
+    text-decoration: none;
+}
+
+.p5 {
+    padding-bottom: 5px;
+}
+
+.p8 {
+    padding: 8px;
+}
+
+.h400 {
+    height: 400px;
+}
+
+.f18 {
+    font-size: 18px;
+}
+
+.progress-bar {
+    background-color: #BEA586;
+}
+
+.h100p {
+    height: 100%;
+}
+
+.p25 {
+    padding: 25px;
+}
+
+h1 {
+    font-size: 45px;
+}
+
+.f20 {
+    font-size: 20px;
+}
+
+.w250 {
+    width: 250px;
+}
+
+.cent {
+    align-content: center;
+}
