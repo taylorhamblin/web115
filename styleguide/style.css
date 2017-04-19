@@ -1,0 +1,99 @@
+@import url("https://fonts.googleapis.com/css?family=Lato");
+@import url("https://fonts.googleapis.com/css?family=Patua+One");
+/* line 3, /Users/taylorhammie/Desktop/PUBLIC/WEB 115/styleguide/style.scss */
+.center {
+  text-align: center; }
+
+/* line 7, /Users/taylorhammie/Desktop/PUBLIC/WEB 115/styleguide/style.scss */
+.p30 {
+  padding: 30px; }
+
+/* line 11, /Users/taylorhammie/Desktop/PUBLIC/WEB 115/styleguide/style.scss */
+.m80 {
+  margin-left: 80px; }
+
+/* line 15, /Users/taylorhammie/Desktop/PUBLIC/WEB 115/styleguide/style.scss */
+.w138 {
+  width: 138px; }
+
+/* line 19, /Users/taylorhammie/Desktop/PUBLIC/WEB 115/styleguide/style.scss */
+.h160 {
+  height: 140px; }
+
+/* line 23, /Users/taylorhammie/Desktop/PUBLIC/WEB 115/styleguide/style.scss */
+.h20 {
+  height: 20px; }
+
+/* line 27, /Users/taylorhammie/Desktop/PUBLIC/WEB 115/styleguide/style.scss */
+.w80 {
+  width: 80px; }
+
+/* line 31, /Users/taylorhammie/Desktop/PUBLIC/WEB 115/styleguide/style.scss */
+.m30 {
+  margin: 30px; }
+
+/* line 35, /Users/taylorhammie/Desktop/PUBLIC/WEB 115/styleguide/style.scss */
+.listnone {
+  list-style: none; }
+
+/* line 39, /Users/taylorhammie/Desktop/PUBLIC/WEB 115/styleguide/style.scss */
+.clear {
+  clear: both; }
+
+/* line 43, /Users/taylorhammie/Desktop/PUBLIC/WEB 115/styleguide/style.scss */
+.darkgrey {
+  background: #5E5C5D; }
+
+/* line 47, /Users/taylorhammie/Desktop/PUBLIC/WEB 115/styleguide/style.scss */
+.darkgreyshade {
+  background-color: #444344; }
+
+/* line 51, /Users/taylorhammie/Desktop/PUBLIC/WEB 115/styleguide/style.scss */
+.darkgreytint {
+  background-color: #EAE5E8; }
+
+/* line 55, /Users/taylorhammie/Desktop/PUBLIC/WEB 115/styleguide/style.scss */
+.lightgrey {
+  background: #AAA7A9; }
+
+/* line 59, /Users/taylorhammie/Desktop/PUBLIC/WEB 115/styleguide/style.scss */
+.lightgreyshade {
+  background: #6A686A; }
+
+/* line 63, /Users/taylorhammie/Desktop/PUBLIC/WEB 115/styleguide/style.scss */
+.lightgreytint {
+  background: #B7B4B6; }
+
+/* line 67, /Users/taylorhammie/Desktop/PUBLIC/WEB 115/styleguide/style.scss */
+.darkblue {
+  background-color: #273856; }
+
+/* line 71, /Users/taylorhammie/Desktop/PUBLIC/WEB 115/styleguide/style.scss */
+.darkblueshade {
+  background-color: #1B273C; }
+
+/* line 75, /Users/taylorhammie/Desktop/PUBLIC/WEB 115/styleguide/style.scss */
+.darkbluetint {
+  background-color: #6793E2; }
+
+/* line 79, /Users/taylorhammie/Desktop/PUBLIC/WEB 115/styleguide/style.scss */
+.offblue {
+  background-color: #5484A8; }
+
+/* line 83, /Users/taylorhammie/Desktop/PUBLIC/WEB 115/styleguide/style.scss */
+.offblueshade {
+  background-color: #345268; }
+
+/* line 87, /Users/taylorhammie/Desktop/PUBLIC/WEB 115/styleguide/style.scss */
+.offbluetint {
+  background-color: #5A8EB5; }
+
+/* line 91, /Users/taylorhammie/Desktop/PUBLIC/WEB 115/styleguide/style.scss */
+.center2 {
+  align-content: center; }
+
+/* line 95, /Users/taylorhammie/Desktop/PUBLIC/WEB 115/styleguide/style.scss */
+.p10 {
+  padding-left: 10%; }
+
+/*# sourceMappingURL=style.css.map */
