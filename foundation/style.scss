@@ -1,0 +1,79 @@
+@import "variables.scss";
+
+body {
+    background: url(Images/ep_naturalblack.png);
+}
+
+.center {
+    text-align: center;
+}
+
+.bradius {
+    border-radius: 15px;
+}
+
+.max {
+    max-width: 100%;
+}
+
+.w100 {
+    width: 100%;
+}
+
+.white {
+    color: white;
+}
+
+.darkgreytint {
+    color: $darkgreytint;
+}
+
+.fill { 
+background: rgba(255, 255, 255, .6)
+}
+
+.h320 {
+    height: 320px;
+}
+
+.floatr {
+    float: right;
+}
+
+.floatl {
+    float: left;
+}
+
+.p5 {
+    padding: 5px;
+}
+
+.font1 {
+font-family: 'Patua One', cursive;
+}
+
+.font2 {
+    font-family: 'Lato', sans-serif;
+}
+
+a {
+    color: $darkred;
+    font-weight: 600;
+}
+
+a:hover {
+    color: $goldshade;
+}
+
+.f20 {
+    font-size: 20px;
+}
+
+.clear {
+    clear: both;
+}
+
+.w99 {
+    width: 300px;
+}
+

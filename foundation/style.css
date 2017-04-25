@@ -1,0 +1,80 @@
+@import url("https://fonts.googleapis.com/css?family=Lato");
+@import url("https://fonts.googleapis.com/css?family=Patua+One");
+/* line 3, /Users/taylorhammie/Desktop/PUBLIC/WEB 115/foundation/style.scss */
+body {
+  background: url(Images/ep_naturalblack.png); }
+
+/* line 7, /Users/taylorhammie/Desktop/PUBLIC/WEB 115/foundation/style.scss */
+.center {
+  text-align: center; }
+
+/* line 11, /Users/taylorhammie/Desktop/PUBLIC/WEB 115/foundation/style.scss */
+.bradius {
+  border-radius: 15px; }
+
+/* line 15, /Users/taylorhammie/Desktop/PUBLIC/WEB 115/foundation/style.scss */
+.max {
+  max-width: 100%; }
+
+/* line 19, /Users/taylorhammie/Desktop/PUBLIC/WEB 115/foundation/style.scss */
+.w100 {
+  width: 100%; }
+
+/* line 23, /Users/taylorhammie/Desktop/PUBLIC/WEB 115/foundation/style.scss */
+.white {
+  color: white; }
+
+/* line 27, /Users/taylorhammie/Desktop/PUBLIC/WEB 115/foundation/style.scss */
+.darkgreytint {
+  color: #898375; }
+
+/* line 31, /Users/taylorhammie/Desktop/PUBLIC/WEB 115/foundation/style.scss */
+.fill {
+  background: rgba(255, 255, 255, 0.6); }
+
+/* line 35, /Users/taylorhammie/Desktop/PUBLIC/WEB 115/foundation/style.scss */
+.h320 {
+  height: 320px; }
+
+/* line 39, /Users/taylorhammie/Desktop/PUBLIC/WEB 115/foundation/style.scss */
+.floatr {
+  float: right; }
+
+/* line 43, /Users/taylorhammie/Desktop/PUBLIC/WEB 115/foundation/style.scss */
+.floatl {
+  float: left; }
+
+/* line 47, /Users/taylorhammie/Desktop/PUBLIC/WEB 115/foundation/style.scss */
+.p5 {
+  padding: 5px; }
+
+/* line 51, /Users/taylorhammie/Desktop/PUBLIC/WEB 115/foundation/style.scss */
+.font1 {
+  font-family: 'Patua One', cursive; }
+
+/* line 55, /Users/taylorhammie/Desktop/PUBLIC/WEB 115/foundation/style.scss */
+.font2 {
+  font-family: 'Lato', sans-serif; }
+
+/* line 59, /Users/taylorhammie/Desktop/PUBLIC/WEB 115/foundation/style.scss */
+a {
+  color: #360816;
+  font-weight: 600; }
+
+/* line 64, /Users/taylorhammie/Desktop/PUBLIC/WEB 115/foundation/style.scss */
+a:hover {
+  color: #6F5C23; }
+
+/* line 68, /Users/taylorhammie/Desktop/PUBLIC/WEB 115/foundation/style.scss */
+.f20 {
+  font-size: 20px; }
+
+/* line 72, /Users/taylorhammie/Desktop/PUBLIC/WEB 115/foundation/style.scss */
+.clear {
+  clear: both; }
+
+/* line 76, /Users/taylorhammie/Desktop/PUBLIC/WEB 115/foundation/style.scss */
+.w99 {
+  width: 300px; }
+
+/*# sourceMappingURL=style.css.map */
