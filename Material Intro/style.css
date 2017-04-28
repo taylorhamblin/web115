@@ -1,0 +1,24 @@
+.center {
+    text-align: center;
+}
+
+.bradius {
+    border-radius: 15px;
+}
+
+.bshadow {
+    box-shadow: 1px 1px 10px;
+}
+
+.p80 {
+    padding-left: 80px;
+    padding-right: 80px;
+}
+
+p {
+    font-size: 16px;
+}
+
+.w200 {
+    width: 200px;
+}
