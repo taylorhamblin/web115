@@ -1,0 +1,30 @@
+.center {
+    text-align: center;
+}
+
+.m20 {
+    margin: 20px;
+}
+
+.w100 {
+    width: 100%;
+}
+.bradius {
+    border-radius: 15px;
+}
+
+.bshadow {
+    box-shadow: 1px 1px 10px;
+}
+
+.clear {
+    clear: both;
+}
+
+.w400 {
+    width: 400px;
+}
+
+.p40 {
+    padding: 40px;
+}
